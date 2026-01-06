@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"], variable: "--font-space-grotesk" });
 
 export const metadata: Metadata = {
-  title: "Amitabh Shanker | Systems & Full Stack Engineer",
+  title: "Amitabh Shanker Portfolio",
   description: "R&D Intern at Nokia, Full Stack Developer, and Systems Researcher.",
 };
 
@@ -26,5 +26,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-
